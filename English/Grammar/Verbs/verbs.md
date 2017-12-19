@@ -36,4 +36,9 @@ Progressive constructions denote ongoing activity at a specific point of time or
   *  Future (will)
   *  Conditional (would)  
   
-
+# 	Meanings of clauses using auxiliary verbs
+  *  Simple constructions
+  *  Progressive constructions
+  *  Perfect constructions
+  *  Perfect progressive constructions
+  * 	Subjunctive constructions
