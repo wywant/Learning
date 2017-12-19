@@ -7,3 +7,15 @@ Here, the main verb is finish, and the auxiliary have helps to express the perfe
 Some sentences contain a chain of two or more auxiliary verbs. 
 Auxiliary verbs are also called helping verbs, helper verbs, or (verbal) auxiliaries.
 They may be glossed with the abbreviation AUX.
+
+# progressive form  
+the progressive form of a verb is used to show that an action or activity is continuing to happen. In English, it consists of the verb ‘be’ followed by the present participle , as in ‘I was waiting for the bus’.
+
+# participle  
+one of the forms of a verb that are used to make tenses. In English, present participle s end in -ing and past participle s usually end in -ed or -en.
+
+# tense  
+a grammatical category of verbs used to express distinctions of time  
+
+# distinctions
+n. 区别；差别；特性；荣誉、勋章
