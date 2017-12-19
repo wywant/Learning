@@ -19,3 +19,8 @@ a grammatical category of verbs used to express distinctions of time
 
 # distinctions
 n. 区别；差别；特性；荣誉、勋章
+
+# Continuous and progressive aspects  
+The continuous and progressive aspects (abbreviated cont and prog) are grammatical aspects that express incomplete action ("to do") or state ("to be") in progress at a specific time: they are non-habitual, imperfective aspects.
+
+ 
