@@ -16,7 +16,8 @@ Most of what are often referred to as verb tenses (or sometimes aspects) in Engl
   *  and conditionals (also called "future in the past") with would in place of will. 
   The auxiliaries shall and should sometimes replace will and would in the first person. For the uses of these various verb forms, see English verbs and English clause syntax.
 
-
+# modal verbs
+The English modal verbs consist of the core modals can, could, may, might, must, shall, should, will, would, as well as ought (to), had better, and in some uses dare and need.[18] These do not inflect for person or number,[18] and do not have infinitive or participle forms (except synonyms, as with be/being/been able (to) for the modals can/could). The modals are used with the basic infinitive form of a verb (I can swim, he may be killed, we dare not move, need they go?), except for ought, which takes to (you ought to go).  
 
 
 
