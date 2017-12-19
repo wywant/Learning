@@ -23,4 +23,10 @@ n. 区别；差别；特性；荣誉、勋章
 # Continuous and progressive aspects  
 The continuous and progressive aspects (abbreviated cont and prog) are grammatical aspects that express incomplete action ("to do") or state ("to be") in progress at a specific time: they are non-habitual, imperfective aspects.
 
- 
+# perfect tense  
+The perfect tense or aspect (abbreviated perf or prf) is a verb form that indicates that an action or circumstance occurred earlier than the time under consideration, often focusing attention on the resulting state rather than on the occurrence itself. An example of a perfect construction is I have made dinner: although this gives information about a prior action (my making the dinner), the focus is likely to be on the present consequences of that action (the fact that the dinner is now ready). The word perfect in this sense means "completed" (from Latin perfectum, which is the perfect passive participle of the verb perficere "to complete").
+
+# perfective aspect  
+The perfective aspect (abbreviated pfv), sometimes called the aoristic aspect,[1] is a grammatical aspect used to describe an action viewed as a simple whole—a unit without interior composition. The perfective aspect is distinguished from the imperfective aspect, which presents an event as having internal structure (such as ongoing, continuous, or habitual actions). The term perfective should be distinguished from perfect
+
+
