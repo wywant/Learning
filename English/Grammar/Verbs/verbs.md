@@ -29,4 +29,11 @@ The perfect tense or aspect (abbreviated perf or prf) is a verb form that indica
 # perfective aspect  
 The perfective aspect (abbreviated pfv), sometimes called the aoristic aspect,[1] is a grammatical aspect used to describe an action viewed as a simple whole—a unit without interior composition. The perfective aspect is distinguished from the imperfective aspect, which presents an event as having internal structure (such as ongoing, continuous, or habitual actions). The term perfective should be distinguished from perfect
 
+# Progressive constructions  
+Progressive constructions denote ongoing activity at a specific point of time or continuous activity over an extent of time. All verbal constructions can be made progressive (e.g. "I have written" → "I have been writing"), and these constructions are very common. Progressive constructions are also known as "continuous".
+  *  Present
+  *  Past
+  *  Future (will)
+  *  Conditional (would)  
+  
 
