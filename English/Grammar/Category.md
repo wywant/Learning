@@ -26,21 +26,21 @@
   * Combinations (catenae) of such forms with auxiliary verbs, such as was going and would have gone
 
 # Tenses, aspects and moods
-  Tenses  
- 	Present  
- 	Past  
- 	Future  
- 	Future-in-the-past  
-  Aspects  
- 	Simple  
- 	Progressive  
- 	Perfect  
- 	Perfect progressive  
-# Moods
- 	Indicative  
-	Subjunctive  
-	Imperative  
-	Conditional  
+##  Tenses  
+ * Present
+ * Past
+ * Future
+ * Future-in-the-past  
+##  Aspects  
+ * Simple
+ * Progressive
+ * Perfect
+ * Perfect progressive   
+## Moods
+  * Indicative
+  * Subjunctive
+  * Imperative
+  * Conditional
 
 
 # English modal verbs
