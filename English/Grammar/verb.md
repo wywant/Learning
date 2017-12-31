@@ -5,5 +5,5 @@
 # Moods
   * Indicative
   * Subjunctive
-  * Imperative
+  * Imperative
   * Conditional
