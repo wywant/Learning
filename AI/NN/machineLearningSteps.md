@@ -8,6 +8,12 @@ Cost Function用来比较训练数据中的期望值和通过预测模型计算�
 metrics是用来显示东西
 
 ## 设计或选择一个Optimizer
+Optimizer主要用来监控
+
 ## 喂数据到模型，通过训练模型调整参数
 ### Optimizer根据Error来调整参数
 ### 为了更好地监控，通过metrics记录中间状态
+
+
+# NN使用标准的机器学习基本步骤
+NN采用了机器学习的大框架，只是使用了特有的Cost Function和Optimizer而已。
