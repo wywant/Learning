@@ -2,7 +2,7 @@
 ## description
 
 # get path
-'''
+'''python
 from tensorflow.python.ops import gen_math_ops
 print(gen_math_ops)
 '''
