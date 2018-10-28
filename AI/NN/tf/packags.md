@@ -1,5 +1,7 @@
 # packags tensorflow.python.ops.gen_math_ops
 ## description
+在寻找sigmoid源代码的过程中，遇到package tensorflow.python.ops.gen_math_ops,但是在tensorflow的github repository里面没有找到。
+最后在 https://stackoverflow.com/questions/36783977/where-is-gen-math-ops-script-in-tensorflow 的帮助下找到了
 
 # get path
 ```python
