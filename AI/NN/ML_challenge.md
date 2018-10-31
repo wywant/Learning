@@ -7,6 +7,7 @@
 ##### Examples 之间数值相差太大 
 ## Performance
 ### 数据引起的性能问题
+对数据进行normalizatin
 ### 算法引起的性能问题
 
 ## Generization
