@@ -1,5 +1,16 @@
-# Trainable
+# Challenges
+## Trainable
 
-# Performance
 
-# Generization
+## Performance
+ 
+
+## Generization
+
+
+# Parts
+## Input/Features
+
+## Predicator Function
+
+## Cost Function
