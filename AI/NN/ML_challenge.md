@@ -9,6 +9,7 @@
 ### 数据引起的性能问题
 对数据进行normalizatin
 ### 算法引起的性能问题
+### 选择误差更大和灵敏度更高的Cost Function
 
 ## Generization
 ### 防止过拟合
